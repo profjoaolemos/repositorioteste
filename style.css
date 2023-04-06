@@ -4,12 +4,11 @@ background-color: aliceblue;
 
 .cabecalho {
 background-color: gold;
+border-radius: 50px 50px 50px 50px;
 }
 
 .cabecalho__imagem {
-
 width: 182px;
 height: 182px;
 margin: 30px 30px 30px 100px
-
 }
