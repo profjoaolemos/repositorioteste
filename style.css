@@ -3,7 +3,12 @@ background-color: aliceblue;
 }
 
 .cabecalho {
-
 background-color: gold;
+}
+
+.cabecalho__imagem {
+
+width: 182px;
+height: 182px;
 
 }
