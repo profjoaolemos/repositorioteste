@@ -12,3 +12,8 @@ width: 200px;
 height: 200px;
 margin: 30px 620px 30px 650px
 }
+
+.cabecalho__menu-item {
+
+    display: inline;
+}
