@@ -16,7 +16,6 @@ border-radius: 0px 0px 50px 50px;
 width: 200px;
 height: 200px;
 margin: 10px 620px 10px 650px;
-font-size: 36px;
 }
 
 .cabecalho__menu {
@@ -25,4 +24,5 @@ font-size: 36px;
 .cabecalho__menu-item {
     display: inline;
     margin-left: 135px;
+    font-size: 36px;
 }
