@@ -35,9 +35,10 @@ margin: 0px 0px 0px 0px;
     justify-content: center;
     align-items: center;
     padding: 15px;
+    font-size: 30px;
 }
 
 .escola-div-conteudo {
     width: 35%;
-    font-size: 30px;
+
 }
