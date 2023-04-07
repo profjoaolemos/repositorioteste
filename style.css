@@ -23,6 +23,6 @@ margin: 10px 620px 10px 650px;
 }
 .cabecalho__menu-item {
     display: inline-block;
-    margin: 0px 20px;
+    margin: 0px 20px 0px 80px;
     font-size: 20px;
 }
