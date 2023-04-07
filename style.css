@@ -10,6 +10,9 @@ background-color: aliceblue;
 .cabecalho {
 background-color: gold;
 border-radius: 0px 0px 50px 50px;
+display: flex;
+justify-content: space-around;
+align-items: center;
 }
 
 .cabecalho__imagem {
