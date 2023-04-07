@@ -19,7 +19,7 @@ margin: 10px 620px 10px 650px;
 }
 
 .cabecalho__menu {
-    display: inline;
+    display: flex;
 }
 .cabecalho__menu-item {
     display: inline;
