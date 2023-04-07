@@ -5,6 +5,7 @@ background-color: aliceblue;
 .cabecalho {
 background-color: gold;
 border-radius: 50px 50px 50px 50px;
+display: flex;
 }
 
 .cabecalho__imagem {
