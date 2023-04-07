@@ -18,7 +18,7 @@ align-items: center;
 .cabecalho__imagem {
 width: 200px;
 height: 200px;
-margin: 10px 90px 10px 90px;
+margin: 10px 70px 10px 70px;
 }
 
 .cabecalho__menu {
@@ -27,5 +27,5 @@ margin: 10px 90px 10px 90px;
 .cabecalho__menu-item {
     display: inline-block;
     margin: 0px 20px 0px 0px;
-    font-size: 20px;
+    font-size: 25px;
 }
