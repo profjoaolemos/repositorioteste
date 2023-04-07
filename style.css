@@ -32,6 +32,7 @@ margin: 0px 0px 0px 0px;
 
 .sobre{
 display: flex;
+justify-content: center;
 }
 
 .escola-div-conteudo {
