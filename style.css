@@ -32,5 +32,8 @@ margin: 0px 0px 0px 0px;
 
 .sobre{
 display: flex;
+}
 
+.escola-div-conteudo {
+    width: 35%;
 }
