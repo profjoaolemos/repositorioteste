@@ -34,10 +34,10 @@ margin: 0px 0px 0px 0px;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 15px;
 }
 
 .escola-div-conteudo {
     width: 35%;
     font-size: 30px;
-    padding: 5px;
 }
