@@ -10,7 +10,6 @@ background-color: aliceblue;
 .cabecalho {
 background-color: gold;
 border-radius: 0px 0px 50px 50px;
-justify-content: space-around;
 }
 
 .cabecalho__imagem {
@@ -23,5 +22,6 @@ margin: 10px 620px 10px 650px;
     display: flex;
 }
 .cabecalho__menu-item {
+    display: inline-block;
     font-size: 30px;
 }
