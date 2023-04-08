@@ -53,8 +53,8 @@ margin: 0px 0px 0px 0px;
 }
 
 .alvo-imagem {
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     justify-content: center;
 }
 
@@ -81,11 +81,11 @@ margin: 0px 0px 0px 0px;
 }
 
 .publico {
-display: flex;
-justify-content: center;
-align-items: center;
-padding: 30px;
-font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-size: 20px;
 }
 
 .publico-div-conteudo {
