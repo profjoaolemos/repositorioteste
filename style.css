@@ -68,6 +68,7 @@ margin: 0px 0px 0px 0px;
 
 .objetivos-div-conteudo {
     width: 35%;
+    text-align: center;
 }
 
 .objetivos-titulo {
@@ -89,6 +90,7 @@ margin: 0px 0px 0px 0px;
 }
 
 .publico-div-conteudo {
+    text-align: center;
     width: 35%;
 }
 
