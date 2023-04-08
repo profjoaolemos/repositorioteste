@@ -70,7 +70,9 @@ margin: 0px 0px 0px 0px;
     width: 35%;
 }
 
-
+.objetivos-titulo {
+    padding: 24px; 0
+}
 
 .imagem-tres-turmas {
     width: 400px;
