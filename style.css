@@ -14,8 +14,6 @@ border-radius: 0px 0px 50px 50px;
 display: flex;
 justify-content: space-around;
 align-items: center;
-font-family: 'Pacifico', cursive;
-font-family: 'Rajdhani', sans-serif;
 }
 
 .cabecalho__imagem {
@@ -31,6 +29,11 @@ margin: 0px 0px 0px 0px;
     display: inline-block;
     margin: 0px 20px 0px 0px;
     font-size: 25px;
+}
+
+.logotipo-junto {
+    width: 250px;
+    height: 200px;
 }
 
 .sobre{
