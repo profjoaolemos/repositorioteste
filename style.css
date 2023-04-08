@@ -58,7 +58,7 @@ margin: 0px 0px 0px 0px;
 }
 
 .objetivos{
-    display: inline;
+    display: inline-block;
 
     align-items: center;
     padding: 30px;
