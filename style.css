@@ -53,13 +53,13 @@ margin: 0px 0px 0px 0px;
 }
 
 .alvo_imagem {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
 }
 
 .objetivos{
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     padding: 30px;
     font-size: 20px;
