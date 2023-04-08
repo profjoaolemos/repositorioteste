@@ -61,7 +61,7 @@ margin: 0px 0px 0px 0px;
 .objetivos{
     display: flex;
     justify-content: center;
-    align-items: left;
+    align-items: center;
     padding: 30px;
     font-size: 20px;
 }
