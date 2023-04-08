@@ -73,3 +73,25 @@ margin: 0px 0px 0px 0px;
 .objetivos-titulo {
     padding: 24px; 0
 }
+
+.imagem-tres-turmas {
+    width: 400px;
+    height: 400px;
+    justify-content: center;
+}
+
+.publico {
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 30px;
+font-size: 20px;
+}
+
+.publico-div-conteudo {
+    width: 35%;
+}
+
+.publico-titulo {
+    padding: 24px;
+}
