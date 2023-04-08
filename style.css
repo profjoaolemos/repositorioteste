@@ -55,6 +55,7 @@ margin: 0px 0px 0px 0px;
 .alvo-imagem {
     width: 400px;
     height: 400px;
+    justify-content: left;
 }
 
 .objetivos{
