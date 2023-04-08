@@ -54,4 +54,21 @@ margin: 0px 0px 0px 0px;
 
 .alvo_imagem {
     width: 300px;
+    height: 300px;
+}
+
+.objetivos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.objetivos-div-conteudo {
+    width: 35%;
+}
+
+.objetivos-titulo {
+    padding: 24px; 0
 }
