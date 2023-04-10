@@ -99,11 +99,11 @@ margin: 0px 0px 0px 0px;
 }
 
 .experiencias-titulo {
-    padding: 24px; 0
+    padding: 36px; 0
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-
-
-
 
 
 
