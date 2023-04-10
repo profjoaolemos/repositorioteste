@@ -98,6 +98,10 @@ margin: 0px 0px 0px 0px;
     padding: 24px; 0
 }
 
-.experiencias-titulo {
-    padding: 24px;
+.experiencia-um-foto {
+    position: absolute;
+    width: 1094px;
+    height: 400px;
+    left: 173px;
+    top: 321px;
 }
