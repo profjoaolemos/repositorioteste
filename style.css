@@ -81,6 +81,7 @@ margin: 0px 0px 0px 0px;
     width: 400px;
     height: 300px;
     justify-content: center;
+    padding: 4px; 0;
 }
 
 .publico {
@@ -112,7 +113,6 @@ margin: 0px 0px 0px 0px;
     align-items: center;
     width: 960px;
     height: 540px;
-    padding: 4px; 0;
 }
 
 .experiencia-um-div-conteudo {
