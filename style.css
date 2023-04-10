@@ -9,7 +9,7 @@ font-family: 'Rajdhani', sans-serif;
 }
 
 .cabecalho {
-background-image: linear-gradient(to bottom, #FBBC1A, #EED697);
+background-image: linear-gradient(to bottom, #FBBC1A, #e9dbb5);
 display: flex;
 justify-content: space-around;
 align-items: center;
