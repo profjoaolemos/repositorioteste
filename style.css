@@ -156,3 +156,28 @@ margin: 0px 0px 0px 0px;
     padding: 30px;
     font-size: 20px;
 }
+
+.experiencia-zero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-size: 20px;  
+}
+
+.experiencia-zero-div-conteudo {
+    width: 70%;
+    text-align: center;
+}
+
+.experiencia-zero-titulo {
+    padding: 18px; 0
+    font-size: 10px;
+}
+
+.imagem-aula-programacao {
+    justify-content: center;
+    align-items: center;
+    width: 960px;
+    height: 540px;
+}
