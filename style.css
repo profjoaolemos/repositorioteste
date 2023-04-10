@@ -98,8 +98,10 @@ margin: 0px 0px 0px 0px;
     padding: 24px; 0
 }
 
-.experiencias-titulo {
+.experiencias {
     padding: 36px; 0
+    justify-content: center;
+    align-items: center;
 }
 
 
