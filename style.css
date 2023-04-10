@@ -124,7 +124,7 @@ margin: 0px 0px 0px 0px;
 }
 
 .experiencia-um {
-    display: table-column-group;
+    display: flex;
     justify-content: center;
     align-items: center;
     padding: 30px;
