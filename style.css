@@ -101,6 +101,10 @@ margin: 0px 0px 0px 0px;
     padding: 24px; 0
 }
 
+.experiencias-titulo {
+    font-family: 'Satisfy', cursive;
+    padding: 24px; 0
+}
 
 .experiencia-um-foto {
     justify-content: center;
