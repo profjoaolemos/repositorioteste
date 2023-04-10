@@ -104,10 +104,10 @@ margin: 0px 0px 0px 0px;
 
 .experiencia-um-foto {
     justify-content: center;
+    align-items: center;
     width: 960px;
     height: 540px;
-    left: 173px;
-    top: 321px;
+    
 }
 
 .experiencia-um-div-conteudo {
