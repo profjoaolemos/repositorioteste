@@ -44,7 +44,7 @@ margin: 0px 0px 0px 0px;
 }
 
 .sobre-div-conteudo {
-    width: 35%;
+    width: 70%;
     text-align: center;
 }
 
@@ -67,7 +67,7 @@ margin: 0px 0px 0px 0px;
 }
 
 .objetivos-div-conteudo {
-    width: 35%;
+    width: 70%;
     text-align: center;
 }
 
@@ -91,10 +91,14 @@ margin: 0px 0px 0px 0px;
 
 .publico-div-conteudo {
     text-align: center;
-    width: 35%;
+    width: 70%;
 }
 
 .publico-titulo {
+    padding: 24px; 0
+}
+
+.experiencias-titulo {
     padding: 24px; 0
 }
 
@@ -107,6 +111,10 @@ margin: 0px 0px 0px 0px;
 }
 
 .experiencia-um-div-conteudo {
-    width: 80%;
+    width: 70%;
     text-align: center;
+}
+
+.experiencia-um-titulo {
+    padding: 18px; 0
 }
