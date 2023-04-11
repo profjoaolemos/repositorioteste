@@ -215,8 +215,13 @@ footer {
     height: 100px;    
     text-align: center;
     line-height: 100px;
-
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+
+.avatar1 {
+    width: 200px;
+    height: 200px;
+    margin: 0px 0px 0px 0px;
 }
