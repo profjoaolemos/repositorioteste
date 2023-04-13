@@ -246,7 +246,10 @@ margin: 0px 0px 0px 0px;
     font-size: 10px;
 }
 
-
+.depoimentos-div-conteudo {
+    width: 70%;
+    text-align: center;
+}
 
 footer {
     bottom: 0;
