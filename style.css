@@ -207,6 +207,33 @@ margin: 0px 0px 0px 0px;
     height: 540px;
 }
 
+.experiencia-quatro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-size: 20px; 
+}
+
+.experiencia-quatro-div-conteudo {
+    width: 70%;
+    text-align: center;
+}
+
+.experiencia-quatro-titulo {
+    padding: 18px; 0
+    font-size: 10px;
+}
+
+.experiencia-quatro-foto {
+    justify-content: center;
+    align-items: center;
+    width: 960px;
+    height: 540px;
+}
+
+
+
 footer {
     bottom: 0;
     background-image: linear-gradient(to bottom, #e9dbb5, #FBBC1A);
